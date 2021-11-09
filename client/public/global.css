@@ -1,0 +1,231 @@
+html,
+body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-width: 1200px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.bg-second {
+  background: #f8f8f8;
+}
+
+.bg-first {
+  background: #547ab7;
+}
+
+.c-first {
+  color: #547ab7;
+}
+
+.m-content {
+  width: max-content;
+}
+
+.bg-light-gray {
+  background-color: #f8f8f8;
+}
+
+.subtitle {
+  font-variant: all-small-caps;
+  color: #547ab7;
+}
+
+.b-corr {
+  background: rgb(222, 242, 222);
+}
+
+.b-wrong {
+  background: #ffe9e9;
+}
+
+.thumb {
+  width: 50px;
+  min-width: 50px;
+  max-width: 50px;
+  align-self: center;
+}
+
+.raised-btn-txt {
+  cursor: pointer;
+  font-size: 16px;
+  padding: 0.4rem;
+  font-variant: all-small-caps;
+  border: none;
+  cursor: pointer;
+  background: #ffffff;
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  border-radius: 2px;
+  transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: 0.2s;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.26);
+  text-align: center;
+  justify-content: center;
+  color: #1f5191;
+  font-weight: 500;
+}
+
+.raised-btn-txt:hover {
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.raised-btn {
+  cursor: pointer;
+  font-size: 18px;
+  padding: 0.2rem;
+  border: none;
+  background: #ffffff;
+  display: inline-flex;
+  align-items: center;
+  vertical-align: middle;
+  border-radius: 2px;
+  transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  transition: 0.2s;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.26);
+  text-align: center;
+  justify-content: center;
+  color: #1f5191;
+  font-weight: 500;
+  letter-spacing: 0.8px;
+}
+
+.raised-btn:hover {
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.h-top {
+  height: 4.5rem;
+}
+
+.mw-max {
+  min-width: max-content;
+}
+
+.report {
+  max-width: 500px;
+}
+
+.title-head {
+  color: white;
+  font-weight: 800;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+}
+
+.abs-top {
+  top: 4.5rem;
+  z-index: 999;
+  margin: 10px;
+}
+
+body {
+  overflow: hidden;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+label {
+  display: block;
+}
+
+input,
+select,
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+  padding: 0.4em;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto", Helvetica, san-serif;
+}
+
+/** Tooltip **/
+.tooltip {
+  position: relative;
+}
+.tooltip__item {
+  text-align: center;
+  position: absolute;
+  min-width: 200px;
+  padding: 20px;
+  visibility: hidden;
+  opacity: 0;
+  background: white;
+  transition: all 0.25s cubic-bezier(0, 0, 0.2, 1);
+  color: #484848;
+  border: 1px solid #cecece;
+  border-radius: 3px;
+  box-shadow: 0 2px 1px #bcbcbc;
+  z-index: 4;
+}
+.tooltip__item:after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-style: solid;
+}
+.tooltip__initiator {
+  cursor: pointer;
+  z-index: 5;
+}
+.tooltip[data-direction="left"] .tooltip__initiator:hover ~ .tooltip__item {
+  transform: translate3d(0, -50%, 0);
+  visibility: visible;
+  opacity: 1;
+}
+.tooltip[data-direction="left"] .tooltip__item {
+  top: 50%;
+  right: calc(100% + 1em);
+  transform: translate3d(15px, -50%, 0);
+}
+.tooltip[data-direction="left"] .tooltip__item:after {
+  top: 50%;
+  right: -0.5em;
+  transform: translate3d(0, -50%, 0);
+  border-width: 0.5em 0 0.5em 0.5em;
+  border-color: transparent transparent transparent white;
+  -webkit-filter: drop-shadow(1px 2px 1px #bcbcbc);
+  filter: drop-shadow(1px 2px 1px #bcbcbc);
+}
+.tooltip[data-direction="bottom"] .tooltip__initiator:hover ~ .tooltip__item {
+  transform: translate3d(-50%, 0, 0);
+  visibility: visible;
+  opacity: 1;
+}
+.tooltip[data-direction="bottom"] .tooltip__item {
+  top: calc(100% + 1em);
+  left: 50%;
+  transform: translate3d(-50%, -15px, 0);
+}
+.tooltip[data-direction="bottom"] .tooltip__item:after {
+  top: -0.5em;
+  left: 50%;
+  transform: translate3d(-50%, 0, 0);
+  border-width: 0 0.5em 0.5em 0.5em;
+  border-color: transparent transparent white transparent;
+  -webkit-filter: drop-shadow(1px 2px 1px #bcbcbc);
+  filter: drop-shadow(1px -1px 1px #bcbcbc);
+}

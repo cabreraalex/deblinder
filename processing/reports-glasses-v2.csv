@@ -1,0 +1,229 @@
+|Unnamed: 0|confidence|description|image|label
+0|0.0|1|His eye region is dark which may cause confusion.|194653|-1
+1|1.0|2|Her face is at an angle rather than straight on.|184352|1
+2|2.0|3|His glasses are clear and have a very thin, barely visible frame|181108|1
+3|3.0|4|There is very little contrast between the glasses and the face.|177130|1
+4|4.0|3|There isn't enough light for the algorithm to detect the glasses.|174902|1
+5|5.0|3|There is an object near where glasses would be.|196676|-1
+6|6.0|3|I think it may have been the color of the glasses. They are a reddish color which could have been confused as a skin color?|184352|1
+7|7.0|3|These glasses are small and just cover the eye sockets so it could have been mistaken for dark eyes|186426|1
+8|8.0|2|These glasses have very fine frames and are light looking, I think it would not have noticed this at all thinking it was the shape of the face|198586|1
+9|9.0|4|The wire rims are difficult to see on this woman's face.|163971|1
+10|10.0|3|The person's dark hair matches the color of the glasses so it may have all blended together to the algorithm.|173977|1
+11|11.0|4|The shadows over this person's eyes form the shape of glasses.|195330|-1
+12|12.0|3|because of the facial expression.|176303|1
+13|13.0|3|because of the facial expression.|176441|1
+14|14.0|3|because of the eye patch can fool you.|185071|-1
+15|15.0|2|It may have thought the glasses were part of the helmet.|171231|1
+16|16.0|3|The technology may have failed because it thought the person's hair was glasses.|186958|-1
+17|17.0|3|The technology may have failed because the glasses are very clear and the glasses seem to blend in with the background and the man's wrinkles.|172423|1
+18|18.0|4|The rims are see-through.|201383|1
+19|19.0|2|It could be misconstrued as a piece of her hat.|163089|1
+20|20.0|3|It can't see their entire face.|166285|1
+21|21.0|4|He is squinting|179778|-1
+22|22.0|4|Her skin color and the frame color|179027|1
+23|23.0|4|They are sunglasses|171231|1
+24|24.0|4|The glasses are clear|184910|1
+25|25.0|3|The glasses are multi-shaded so it may not detect them correctly.|196277|1
+26|26.0|0|Are goggles considered glasses?|177429|-1
+27|27.0|3|The glasses are very thin and clear.|169691|1
+28|28.0|3|The glasses are thin and clear.|167274|1
+29|29.0|3|The glasses are thin and clear.|166203|1
+30|30.0|4|The man's glasses are transparent and that has confused the algorithm.|198500|1
+31|31.0|2|The man has a very distinct color of glasses that are quite red.|180858|1
+32|32.0|1|The glasses are quite large and too big for the algorithm to detect.|189610|1
+33|33.0|3|The fames of the glasses are similar in color to the persons skin.|176384|1
+34|34.0|3|The glasses appear to be rimless or have a very small rim, which makes the lenses difficult to detect.|170048|1
+35|35.0|3|The image is very low-resolution.|184000|-1
+36|36.0|2|The glasses aren't as dark and you could see the person's eyes this may have confused it.|193523|1
+37|37.0|3|The person is wearing eyeglasses that are clear where the frame of the glasses is clear and hard to distinguish with the background.|180246|1
+38|38.0|1|The glasses are completely clear and the frames are very thin making it hard to distinguish.|163776|1
+39|39.0|3|The man is facing to the side which might make it harder to detect.|170317|1
+40|40.0|3|The glasses are very thin and blend into the skin.|164833|1
+41|41.0|4|The eye patch looks like glasses over the eye.|185071|-1
+42|42.0|4|Glasses frames are too thin.|165840|1
+43|43.0|3|Frames blend into person.|169582|1
+44|44.0|3|There is hair in front of the glasses|197174|1
+45|45.0|3|The shadows and light used in the image make the outline of the glasses very hard to see.|164474|1
+46|46.0|2|The glasses sort of blend in with the color of the person's face, so perhaps that confused the technology.|172353|1
+47|47.0|3|The lenses of the glasses seem to be very thin and sort of hard to see because they also kind of blend in with the person's face.|182122|1
+48|48.0|4|The glasses blend in with his face|187512|1
+49|49.0|4|The background is also black|163795|1
+50|50.0|3|The shading around her eyes look like lenses|194007|-1
+51|51.0|4|The glasses this person is wearing are see through.|178693|1
+52|52.0|4|The glasses in the image are clear.|169582|1
+53|53.0|1|The glasses in the image are oddly shaped.|196277|1
+54|54.0|4|around the eyes is a darker pigmented skin giving that illusion|177536|-1
+55|55.0|3|I can only imagine that the hat is throwing things off|163795|1
+56|56.0|4|The glasses are very thin and transparent and also at an angle.|172098|1
+57|57.0|4|the glasses are clear|163259|1
+58|58.0|4|The frame is skinny|198477|1
+59|59.0|4|The reflection doesn't show much of the glass frame|164833|1
+60|60.0|3|the glasses match the hat |162816|1
+61|61.0|3|the glasses are too thin|186901|1
+62|62.0|3|the glasses blend with the skin tone.|202032|1
+63|63.0|2|The glasses are light in color.|193523|1
+64|64.0|2|The frames are very thin.|166953|1
+65|65.0|3|The glasses are hard to see.|165290|1
+66|66.0|1|The brim of the hat the person is wearing in the image could be mistaken for a glasses frame.|184077|-1
+67|67.0|0|The slightly odd hat and long beard could be throwing off the technology and making it think they're just part of the person's face.|180858|1
+68|68.0|1|The glasses are very clear and don't show up on the person's face well, so it may not have detected that they were there at all.|168870|1
+69|69.0|1|The picture is from the side and the glasses are an odd color.|193279|1
+70|70.0|2|The glasses are blending in with his hair.|177977|1
+71|71.0|2|The glasses might be blending in with his hair and hat.|169345|1
+72|72.0|4|The glasses are spectacles and so they're clear and appear to almost not be visible on the left side of his face|191176|1
+73|73.0|4|The man is raising his eyes intensely so the rim of the spectacles fall on his eyebrows and that's the confusion.|177075|1
+74|74.0|4|The rounded rim met with his fake eyebrows painted on appear to be large and so the rim covers or lines up with the eyebrow a little.|166774|1
+75|75.0|3|The guy's eyes are in the shadow of his visor.|170986|-1
+76|76.0|2|There is a dark area of beard that might make the glasses look like part of the beard to the algorithm.|174632|1
+77|77.0|3|His glasses blend in to his hat.|181756|1
+78|78.0|4|The glasses are thin framed and it's low quality picture |183117|1
+79|79.0|4|The glasses are thin framed and it's low quality picture |187156|1
+80|80.0|3|Make have mistaken cause the lens are the same color as the hair|166149|1
+81|81.0|4|There is a watermark over the glasses do the algorithm may not have seen them.|171326|1
+82|82.0|4|They are quite difficult to see because the frames are clear. |179436|1
+83|83.0|4|The lenses blend into the man's face and are difficult to see. |177130|1
+84|84.0|3|Hair is covering his face and is confusing the bot.|197174|1
+85|85.0|3|The room is very dark and seeing his face is difficult.|178890|-1
+86|86.0|4|His glasses frame is very thin and is mistaken for facial wrinkles.|198045|1
+87|87.0|4|The glasses have thin frames|173197|1
+88|88.0|4|The glasses have thin to no frames|173010|1
+89|89.0|4|The frames around the eye aren't there|187985|1
+90|90.0|3|Looks like a shine on the face.|176010|1
+91|91.0|4|Darkness on a dark face caused confusion looks like a shadow.|174632|1
+92|92.0|3|Can barely see her face bad picture|177652|1
+93|93.0|0|The hat may have cast a shadow.|167364|1
+94|94.0|1|The skull and crossbones on the hat tricked the technology.|176596|1
+95|95.0|2|The arm across the face obscures that eyes.|199665|-1
+96|96.0|1|The glasses are thin and hard to see.|165891|1
+97|97.0|0|The glasses are being confused with the background color|176165|1
+98|98.0|1|The person has shadows around their eyes that could be mistaken for glasses.|191321|-1
+99|99.0|3|The picture is blurry.|169726|1
+100|100.0|3|It is hard to see the full glasses and the angle is odd.|167005|1
+101|101.0|4|There is a shadow cast that could be mistaken as glasses.|177300|-1
+102|102.0|4|The glasses blend in with the skin of the person.|166734|1
+103|103.0|2|I believe the lighting cause the algorithm not to detect the glasses|199731|1
+104|104.0|0|The glasses are sunglasses and the algorithm isn't trained to detect them|172059|1
+105|105.0|3|The glasses are somewhat see through|174312|1
+106|106.0|3|The lenses are somewhat see through|180192|1
+107|107.0|3|The glasses do blend into the dark face|163572|1
+108|108.0|1|i think your technology couldn't identify the glasses|165511|1
+109|109.0|2|maybe because its a transparent kind|166953|1
+110|110.0|4|i think it's because it is a transparent glasses|184558|1
+111|111.0|3|The glasses blend in with the dark background.|199276|1
+112|112.0|3|The rims are not very dark and are clear.|169487|1
+113|113.0|4|The glasses blend in with the hair (top of head).|194855|1
+114|114.0|3|The glasses may have been too transparent.|175983|1
+115|115.0|3|The glasses may be too transparent and the watermark may have confused the algorithm.|181285|1
+116|116.0|3|The persons hair and the lighting may have confused the algorithm.|194357|-1
+117|117.0|4|The glasses frame is a bit on the thin side making it hard too see.|176384|1
+118|118.0|4|The algorithm might not have any data on people who use sunglasses.|177568|1
+119|119.0|2|The persons eye stand more more than the glasses frames so it might have detected the eyes more and ignored the frames.|167274|1
+120|120.0|3|The glasses have very thin frames.|163701|1
+121|121.0|1|Dark hair is falling around her eyes and she's wearing dark eye shadow that may resemble dark frames.|196768|-1
+122|122.0|0|Th person's eyes are obscured by a hat.|199734|-1
+123|123.0|3|The glasses rims are transparent.|163913|1
+124|124.0|2|The rims are very thin.|168721|1
+125|125.0|3|The person is wearing a mask that looks like glasses.|185071|-1
+126|126.0|1|It could be because her curls aer loose and round and they kind of look like glasses so maybe the technology read the glasses as curls.|178876|1
+127|127.0|2|The glasses are rather small and the frame is pretty thin.|190951|1
+128|128.0|2|The frame of the glasses is very thin and there is not a glare in the lenses.|174297|1
+129|129.0|4|The glasses have very thin frames.|174149|1
+130|130.0|4|The glasses have very thin frames.|173062|1
+131|131.0|4|The glasses have very thin frames.|170682|1
+132|132.0|3|The glass have no outline, or rims.|172112|1
+133|133.0|3|The skin around the eyes can be deceiving |170794|-1
+134|134.0|3|There isn't a clear shot of the face, from the front.|191321|-1
+135|135.0|3|Because the glass frame are very thin|176602|1
+136|136.0|3|Because the glass frames are very thin|190951|1
+137|137.0|3|Because the person have bags under their eyes. |193544|-1
+138|138.0|2|The glasses have a single long lens without separate lens frames for each eye. |175045|1
+139|139.0|3|The glasses are not very visible and do not have a frame around each lens. |179436|1
+140|140.0|2|There is no reflection on the lens. |168629|1
+141|141.0|4|Because the glasses are upside down|162938|1
+142|142.0|3|The lighting may have been too dark surrounding|163795|1
+143|143.0|3|Because it may not have detected the rims as being part of glasses |177948|1
+144|144.0|4|the woman is wearing glasses to see|185344|1
+145|145.0|3|the man is wearing glasses but they are hard to see|184000|1
+146|146.0|4|the man is wearing glasses to see|175774|1
+147|147.0|4|because it seems invissible|174302|1
+148|148.0|4|there is no glass|169914|-1
+149|149.0|4|seems light|195596|1
+150|150.0|4|This is because the glass is very transparent and the frame is very thin|168721|1
+151|151.0|3|The glass is very transparent and the temples look like his skin.|198586|1
+152|152.0|4|The glass is as dark as the environment and the tech seems it is a reflection of the environment|164319|1
+153|153.0|4|It might be picking up something in the background that is making it fail.|164639|1
+154|154.0|4|The glasses are almost see through so the technology might not pick it up.|170739|1
+155|155.0|4|It might be picking up something in the background that is making it fail.|174902|1
+156|156.0|3|The glasses have a thin frame, and it might not have been detected against the color of the woman's skin because it kind of blends in a bit. |163371|1
+157|157.0|3|It is hard to see the outline of the glasses because they are thin-framed and it blends in with the skin of the woman somewhat.|177652|1
+158|158.0|3|In the left side of the photo, the glasses are almost completely invisible against the background of the face, and the glasses have barely any frame to them. |173803|1
+159|159.0|4|The glasses are not rimmed with frames so there is not enough contrast on the mans face for it to pick up.|174103|1
+160|160.0|3|There is not enough contract because the frames are silver and very thinn.|201174|1
+161|161.0|1|The glasses match his hair and touch his hair so it probable detected them as hair.|181411|1
+162|162.0|2|The glasses are lightweight and blend into the face|181108|1
+163|163.0|1|The technology hasn't seen this type of glasses before|175045|1
+164|164.0|2|The glasses are clear and blend in well with the face|173585|1
+165|165.0|1|The glasses are light colored and blend in with her face.|169787|1
+166|166.0|2|The glasses are barely visible on her face and blend in.|182168|1
+167|167.0|1|The glasses don't have frames it looks like, and are just lenses attached to the ear piece.|171765|1
+168|168.0|3|It is hard to see because they are rimless glasses so it looks like there are no glasses on.|201174|1
+169|169.0|3|The glasses are rimless and its hard to decipher because the see through.|172602|1
+170|170.0|3|The glasses are rimless and they are hard to decipher|177883|1
+171|171.0|1|The man's beard likely threw off the face's proportions |173399|1
+172|172.0|3|The glasses are very thin and hard to see|178520|1
+173|173.0|4|The glasses do not have any wire rims|201467|1
+174|174.0|3|The wire frames may be too thin|171661|1
+175|175.0|2|The glasses are tinted an unusual color|175602|1
+176|176.0|3|There are bags under the eyes that make it seem like he's wearing glasses|171522|-1
+177|177.0|3|The person's hair is across their face.|174449|-1
+178|178.0|3|The angle of the face has caused an incorrect detection.|200184|1
+179|179.0|3|The lens are not clearly distinguished by the frames. |196403|1
+180|180.0|3|The black on black color|196191|1
+181|181.0|3|because they are clear|164144|1
+182|182.0|3|black on black color|176909|1
+183|183.0|2|The glasses have thin frames that make them hard to identify.|190951|1
+184|184.0|1|The glasses have thin frames that make them hard to identify.|189691|1
+185|185.0|3|The glasses have very thin frames that are hard to see and not highly visible.|195596|1
+2||1|The helmet is obscuring the face|181854|1
+4||3|Maybe the color of the glasses caused it to fail.|166401|1
+5||4|Probably because the rim of the glasses are so thin it looks liek he's not wearing any.|177531|1
+9||3|they can't see the front image of the face.|173924|1
+10||4|they are unable to see their full face and it failed.|196666|1
+11||2|they are wearing glasses, the helmet may be in the way.|177024|1
+16||3|There is a reflective hat that may have caused a mix-up. |191114|-1
+25||2|There is text blocking her face which may be picked as glasses.|188611|-1
+30||4|she has hair in her face.|169202|-1
+31||4|the color of her skin, the angle of her face, the lighting, and how transparent they are. |177547|1
+32||4|the angle of the face and the light and shadows, it probably thought the glasses were a shadow, also the glasses are not on all the way so it probably threw the determination off|202491|1
+36||3|the contrast around the mans face and around his glasses is high and its hard to see the outlines of the glasses.|174739|1
+38||2|Helmet on head makes occlusion. |181854|1
+40||3|The glasses are very thin and hard to see.|181725|1
+41||3|The frames of the glasses are thin and difficult to see.|194188|1
+42||3|The helmet may have thrown it off.|171835|1
+43||3|It is hard to tell, because the glasses are very clear.|198209|1
+45||2|He is wearing the glasses low on his face and also looking down at the same time|170723|1
+46||2|The color of the glasses blends in with his face pretty well|172805|1
+47||2|It is a photo from her side, which may mess with the understanding it has of what to look for|183917|1
+50||2|Those glasses look as if they were added on with photo manipulation.|163207|1
+52||2|This person's eyes are obstructed.|191114|-1
+54||3|he covers the eyes with some other thing|174200|-1
+55||3|wearing glass|194188|1
+56||3|wearing sunglass|202491|1
+57||2|The glasses look like they were added on as a filter. |163207|1
+58||2|They are lightweight reading glasses and the glass part is not as visible.|181826|1
+60||3|May have failed because the glasses are near the same color as face or not over eyes.|168469|1
+63||4|The glasses and frame are light colored and are similar to the man's skin tone so it may not have noticed it.|195749|1
+67||0|The person's face is shiny and it may cause the glasses to not be detected.|163207|1
+69||4|The glasses are frameless and very clear in color. |173430|1
+76||3|The glasses are very hard to see.|178229|1
+77||1|The glasses are similar to the hair color.|174442|1
+80||4|This is a profile/side photo.|196933|1
+81||2|The image is not good quality, and the algorithm may have trouble discerning pixels because of that.|198106|1
+82||2|"The glasses are not positioned exactly on the eyes, so the algorithm may classify this as a ""no glasses"" picture."|167338|1
+84||3|because the glasses are clear and the lighting is bright.|177547|1
+85||3|It is almost unrecognizable as a human face and the face itself is shrouded in shadow|165149|-1
+86||3|the veil is getting in the way and the algorithm most likely thought that it was glasses|182455|-1
+87||2|He is pulling the glasses down, revealing his eyes which may throw off the technology.|186959|1
+89||0|The hair in the person's eyes may confuse the technology.|177369|-1
+91||3|The image is not shown clear|182770|1

@@ -1,0 +1,6 @@
+Flask
+imageio
+torchvision
+spacy
+pandas
+gunicorn
